@@ -10,6 +10,4 @@ end
 def bark
 puts "woof!"
 end
-
-#   @bark p
-# end
+end
